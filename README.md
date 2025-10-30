@@ -13,3 +13,4 @@ Some facts about me:
 / (_..-' // (< _     ;_..__               ; `' / ///
  / // // //  `-._,_)' // / ``--...____..-' /// / //
 ```
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?shotmee=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
