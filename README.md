@@ -1,6 +1,7 @@
 Hi there 👋
 
 Some facts about me:
+- 🎓 Student of **the university of ITMO**
 - 💼 Skills: `Python` `JavaScript` `C` `C++` `C#`
 - 💬 Ask me about: my mood
 - 📫 How to reach me: https://t.me/sshotme https://vk.com/sh0tme
